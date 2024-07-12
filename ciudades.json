@@ -1,0 +1,16 @@
+{
+    "ciudades": [
+        {
+            "ciudad": "bucaramanga",
+            "codigo_postal": "0555",
+            "poblacion": "8888",
+            "Pais": "colombia"
+        },
+        {
+            "ciudad": "cancun",
+            "codigo_postal": "3366",
+            "poblacion": "78946748",
+            "Pais": "mexico"
+        }
+    ]
+}
